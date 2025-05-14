@@ -5,7 +5,9 @@ Code is fun. I love gaming.<br/>
 <br/>
 I need to code more :3<br/>
 <br/>
+Stop thinking, Just do it.
+<br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0bertvcdvf21tfnpnsbur126v&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=0bertvcdvf21tfnpnsbur126v&redirect=true)<br/>
 <br/>
 This is fun.<br/>
-setting git up is so annoying. <br/>
+
